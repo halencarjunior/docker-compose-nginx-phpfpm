@@ -1,10 +1,12 @@
-Requirements:
+Requirements
+------------
 
-docker - https://docs.docker.com/engine/installation/
-docker-compose - https://github.com/docker/compose/releases
+1. docker - https://docs.docker.com/engine/installation/
+2. docker-compose - https://github.com/docker/compose/releases
 
 
-Starting container:
+Starting container
+------------------
 
 # docker-compose up
 
